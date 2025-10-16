@@ -69,4 +69,4 @@ font-size: 22px;
 ## OUTPUT:
 ![alt text](<Screenshot 2025-10-16 142407.png>)
 ## RESULT:
-The program for designing book front cover page using H
+The program for designing book front cover page using HTML
